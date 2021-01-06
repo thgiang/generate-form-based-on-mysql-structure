@@ -1,0 +1,6 @@
+<div class="form-group">
+    <label for="___id___">___label___</label>
+    <textarea class="form-control" id="___id___" rows="3" v-model="formData.___id___"></textarea>
+    <small id="___fieldCamel___Help" class="form-text text-muted"></small>
+    <small v-if="errors.___id___">{{ errors.___id___ }}</small>
+</div>
