@@ -1,0 +1,4 @@
+    await queryRunner.query(
+      `ALTER TABLE ___tableName___ MODIFY COLUMN ___fieldName___ ___type___ comment "___comment___"`,
+    )
+

@@ -1,0 +1,5 @@
+<tr>
+    <td>___id___</td>
+    <td>___type___</td>
+    <td>___label___</td>
+</tr>

@@ -1,0 +1,5 @@
+import { MigrationInterface, QueryRunner, TableColumn } from 'typeorm'
+
+export class ___className___ implements MigrationInterface
+{
+  public async up(queryRunner: QueryRunner): Promise<void> {
